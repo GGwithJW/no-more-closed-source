@@ -1,0 +1,1 @@
+# no-more-closed-source
