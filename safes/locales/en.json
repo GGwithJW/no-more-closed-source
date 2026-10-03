@@ -1,0 +1,10 @@
+{
+    "notifications": {
+        "error": {
+            "wrong_password": "Incorrect password."
+        },
+        "info": {
+            "change_password": "Make sure to set a password for your safe."
+        }
+    }
+}
